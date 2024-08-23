@@ -1,0 +1,14 @@
+﻿{
+  "ID": "fdcdb1688fe64916b8d0cbbeb8aadcb8",
+  "ActionKeyword": "[",
+  "IsGlobal": false,
+  "Name": "Snippets",
+  "Author": "Corey Hayward",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "https://github.com/CoreyHayward/PowerToys-Run-Snippets",
+  "IcoPathDark": "Images\\Snippets.dark.png",
+  "IcoPathLight": "Images\\Snippets.light.png",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.Snippets.dll",
+  "DynamicLoading": true
+}
