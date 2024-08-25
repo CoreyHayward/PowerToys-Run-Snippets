@@ -1,6 +1,6 @@
 # PowerToys Run: Snippets plugin
 
-Simple [PowerToys Run](https://learn.microsoft.com/windows/powertoys/run) plugin for creating and inputting text snippets.
+Simple [PowerToys Run](https://learn.microsoft.com/windows/powertoys/run) plugin allowing creation, deletion and insertion of snippets.
 
 ![Snippets Demonstration](/images/Snippets.gif)
 
